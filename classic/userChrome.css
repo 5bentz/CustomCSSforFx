@@ -422,6 +422,7 @@
 /* other tab settings ***************************************************************************/
 /* @import "./css/tabs/tab_icon_colors.css"; /**/
 /* @import "./css/tabs/newtab_button_always_visible.css"; /**/
+@import "./css/tabs/newtab_button_always_hidden.css"; /**/
 /* @import "./css/tabs/tab_icon_inactive_tabs_lower_opacity.css"; /**/
 /* @import "./css/tabs/tab_icon_unloaded_tabs_lower_opacity.css"; /**/
 /* @import "./css/tabs/tab_maxwidth.css"; /**/
