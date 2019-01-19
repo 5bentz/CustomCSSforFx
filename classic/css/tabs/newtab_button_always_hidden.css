@@ -3,10 +3,6 @@
 /****************************************************************************************/
 
 
-#new-tab-button {
-  visibility: hidden !important;
-}
-
 .tabs-newtab-button {
   visibility: collapse !important;
 }
