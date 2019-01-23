@@ -1,0 +1,11 @@
+# https://github.com/5bentz/CustomCSSforFx
+browser.tabs.tabMinWidth;180
+browser.tabs.closeWindowWithLastTab;false
+browser.search.openintab;true
+browser.ctrlTab.recentlyUsedOrder;false
+browser.bookmarks.openInTabClosesMenu;false
+browser.tabs.insertAfterCurrent;true
+browser.tabs.insertRelatedAfterCurrent;true
+browser.urlbar.openintab;true
+
+
