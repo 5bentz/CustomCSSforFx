@@ -115,7 +115,7 @@
 
 /* GENERAL VARIABLES ****************************************************************************/
 /* [!] set global variables for font and tab size options and more inside target file ***********/
-@import "./config/general_variables.css"; /**/
+/* @import "./config/general_variables.css"; /**/
 
 /* COLOR VARIABLES FOR DEFAULT BROWSER THEME ONLY - MAIN UI - [only use one at a time] **********/
 /* [!] set own colors for tabs & toolbars inside 'color_variables.css' or use available presets */
