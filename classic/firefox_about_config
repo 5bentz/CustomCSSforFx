@@ -7,5 +7,6 @@ browser.bookmarks.openInTabClosesMenu;false
 browser.tabs.insertAfterCurrent;true
 browser.tabs.insertRelatedAfterCurrent;true
 browser.urlbar.openintab;true
-
+# to be able to load (custom) user{Chrome,Content}.css in FF 69
+toolkit.legacyUserProfileCustomizations.stylesheets;true
 
