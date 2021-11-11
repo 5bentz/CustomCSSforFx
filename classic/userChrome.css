@@ -371,7 +371,7 @@
 /* [!] not compatible with 'tabs toolbar - below main content' option ***************************/
 /* [!] only compatible with 'tabs below navigation toolbar alt version' *************************/
 @import "./css/tabs/tabs_multiple_lines.css"; /**/
-@import "./css/tabs/tabs_multiple_lines_force_newtab_button_visibility.css"; /**/
+/* @import "./css/tabs/tabs_multiple_lines_force_newtab_button_visibility.css"; /**/
 
 
 /* restore empty/missing tab favicon - [only use one at a time] *********************************/
