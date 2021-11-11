@@ -32,11 +32,11 @@
 
 
 /* addons page appearance - [only use one at a time] (incl. version number & buttons) ***********/
-@import "./css/aboutaddons/addons_manager_alternative_appearance.css"; /**/
+/* @import "./css/aboutaddons/addons_manager_alternative_appearance.css"; /**/
 /* @import "./css/aboutaddons/addons_manager_alternative_appearance_aero.css"; /**/	/* <-- AERO colors */
 
 /* version number for active add-ons ************************************************************/
-@import "./css/aboutaddons/addonlists_show_addon_version_number.css"; /**/
+/* @import "./css/aboutaddons/addonlists_show_addon_version_number.css"; /**/
 
 /* compact item lists - [only use one at a time] /* to be used with 'alternative appearance' ****/
 /* @import "./css/aboutaddons/addonlists_compact.css"; /**/
@@ -65,8 +65,8 @@
 /* @import "./css/aboutaddons/addonlists_badges_old_size.css"; /**/
 /* @import "./css/aboutaddons/addonlists_hide_recommended_icon.css"; /**/
 /* @import "./css/aboutaddons/addonlists_hide_allowed_in_private_windows_icon.css"; /**/
-@import "./css/aboutaddons/recentupdates_category_always_visible.css"; /**/
-@import "./css/aboutaddons/availableupdates_category_always_visible.css"; /**/
+/* @import "./css/aboutaddons/recentupdates_category_always_visible.css"; /**/
+/* @import "./css/aboutaddons/availableupdates_category_always_visible.css"; /**/
 /* @import "./css/aboutaddons/availableupdates_category_last_category.css"; /**/
 /* @import "./css/aboutaddons/recommendations_category_always_hidden.css"; /**/
 
@@ -76,7 +76,7 @@
 /************************************************************************************************/
 
 /* preferences page appearance - [only use one at a time] ***************************************/
-@import "./css/aboutpreferences/preferences_alternative_appearance.css"; /**/
+/* @import "./css/aboutpreferences/preferences_alternative_appearance.css"; /**/
 /* @import "./css/aboutpreferences/preferences_alternative_appearance_aero.css"; /**/	/* <-- AERO colors */
 /* @import "./css/aboutpreferences/preferences_alternative_appearance_v2.css"; /**/
 
@@ -103,7 +103,7 @@
 /************************************************************************************************/
 
 /* logins page appearance - [only use one at a time] ********************************************/
-@import "./css/aboutlogins/aboutlogins_alternative_appearance.css"; /**/
+/* @import "./css/aboutlogins/aboutlogins_alternative_appearance.css"; /**/
 /* @import "./css/aboutlogins/aboutlogins_alternative_appearance_aero.css"; /**/
 
 
@@ -130,7 +130,7 @@
 /************************************************************************************************/
 /************************************************************************************************/
 /* Create a new file "my_userContent.css" and add own/custom code to it. ************************/
-@import "./my_userContent.css"; /**/
+/* @import "./my_userContent.css"; /**/
 /************************************************************************************************/
 /************************************************************************************************/
 /************************************************************************************************/
