@@ -180,7 +180,7 @@
    [!] custom icon quality does not increase in HiDPI modes
 */
 
-/* @import "./css/buttons/icons_colorized.css"; /**/
+@import "./css/buttons/icons_colorized.css"; /**/
 /* @import "./css/buttons/icons_white_icons.css"; /**/
 /* @import "./css/buttons/icons_custom_icons.css"; /**/  
 /* @import "./css/buttons/icons_custom_icons_fx1.css"; /**/
@@ -630,7 +630,7 @@
    [!] only compatible with 'tabs below navigation toolbar alt version'
 */
 
-/* @import "./css/tabs/tabs_multiple_lines.css"; /**/
+@import "./css/tabs/tabs_multiple_lines.css"; /**/
 /* @import "./css/tabs/tabs_multiple_lines_force_newtab_button_visibility.css"; /**/
 
 
@@ -672,7 +672,7 @@
 
 /* @import "./css/tabs/tab_close_always_visible.css"; /**/
 /* @import "./css/tabs/tab_close_on_active_tab_only.css"; /**/
-/* @import "./css/tabs/tab_close_show_on_hover_only.css"; /**/
+@import "./css/tabs/tab_close_show_on_hover_only.css"; /**/
 /* @import "./css/tabs/tab_close_hidden.css"; /**/
 /* @import "./css/tabs/tab_close_hidden_for_only_one_visible_tab.css"; /**/
 /* @import "./css/tabs/tab_close_at_tabs_start.css"; /**/
