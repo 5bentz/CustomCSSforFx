@@ -16,8 +16,8 @@
 
 :root{
   --tabs-lines: 3;
-  --tab_min_width_mlt: 100px;
-  --tab_max_width_mlt: 200px;
+  --tab_min_width_mlt: 209px;
+  --tab_max_width_mlt: 209px;
   --tab-min-height_mlt: var(--tab-min-height,32px); /* set own value here, if used without configuration files */
 }
 
