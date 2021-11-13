@@ -37,7 +37,7 @@
     display: flex;
     flex-wrap: wrap;
     overflow-y: auto;
-    max-height: calc(var(--tab-min-height_mlt) * var(--tabs-lines));
+    max-height: calc(var(--tab-min-height_mlt) * var(--tabs-lines) + 1px);
     scrollbar-color: currentColor transparent;
     scrollbar-width: thin;
   }
