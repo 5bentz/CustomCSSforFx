@@ -49,7 +49,7 @@
    [!] only use one at a time 
 */
 
-@import "./css/aboutaddons/addons_manager_alternative_appearance.css"; /**/
+/* @import "./css/aboutaddons/addons_manager_alternative_appearance.css"; /**/
 /* @import "./css/aboutaddons/addons_manager_alternative_appearance_aero.css"; /**/	/* <-- AERO colors */
 
 /* @import "./css/aboutaddons/addons_manager_alternative_appearance_compact_categories.css"; /**/
@@ -108,7 +108,7 @@
    [!] requires buttons instead of menupopup
 */
 
-@import "./css/aboutaddons/addonlists_show_addon_version_number.css"; /**/
+/* @import "./css/aboutaddons/addonlists_show_addon_version_number.css"; /**/
 
 
 /* ---------------------------
@@ -120,8 +120,8 @@
 /* @import "./css/aboutaddons/addonlists_hide_monochromatic_themes.css"; /**/
 /* @import "./css/aboutaddons/addonlists_hide_recommended_icon.css"; /**/
 /* @import "./css/aboutaddons/addonlists_hide_allowed_in_private_windows_icon.css"; /**/
-@import "./css/aboutaddons/recentupdates_category_always_visible.css"; /**/
-@import "./css/aboutaddons/availableupdates_category_always_visible.css"; /**/
+/* @import "./css/aboutaddons/recentupdates_category_always_visible.css"; /**/
+/* @import "./css/aboutaddons/availableupdates_category_always_visible.css"; /**/
 /* @import "./css/aboutaddons/availableupdates_category_last_category.css"; /**/
 /* @import "./css/aboutaddons/recommendations_category_always_hidden.css"; /**/
 
@@ -139,7 +139,7 @@
    [!] only use one at a time 
 */
 
-@import "./css/aboutpreferences/preferences_alternative_appearance.css"; /**/
+/* @import "./css/aboutpreferences/preferences_alternative_appearance.css"; /**/
 /* @import "./css/aboutpreferences/preferences_alternative_appearance_aero.css"; /**/	/* <-- AERO colors */
 /* @import "./css/aboutpreferences/preferences_alternative_appearance_v2.css"; /**/
 
@@ -180,7 +180,7 @@
    [!] only use one at a time
 */
 
-@import "./css/aboutlogins/aboutlogins_alternative_appearance.css"; /**/
+/* @import "./css/aboutlogins/aboutlogins_alternative_appearance.css"; /**/
 /* @import "./css/aboutlogins/aboutlogins_alternative_appearance_aero.css"; /**/
 
 
@@ -227,4 +227,4 @@
    [!] Create a "my_userContent.css" file and add own/custom code to it.
 */
 
-@import "./my_userContent.css"; /**/
+/* @import "./my_userContent.css"; /**/
