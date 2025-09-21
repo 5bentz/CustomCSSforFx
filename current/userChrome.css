@@ -103,7 +103,7 @@
    [!] set global variables for font and tab size options and more inside target file 
 */
 
-@import "./config/general_variables.css"; /**/
+/* @import "./config/general_variables.css"; /**/
 
 /* -------------------------
    MAIN UI / COLOR VARIABLES
@@ -116,7 +116,7 @@
 */
 
 /* default 'grey' colors */
-@import "./config/color_variables.css"; /**/
+/* @import "./config/color_variables.css"; /**/
 
 /* 'AeroBlue' colors (Win 7 Aero) */
 /* @import "./config/color_variables_aero.css"; /**/
@@ -178,7 +178,7 @@
    [!] Firefox 88 icon set uses SVG images
 */
 
-@import "./css/buttons/icons_colorized.css"; /**/
+/* @import "./css/buttons/icons_colorized.css"; /**/
 /* @import "./css/buttons/icons_white_icons.css"; /**/
 /* @import "./css/buttons/icons_custom_icons.css"; /**/
 /* @import "./css/buttons/icons_custom_icons_fx1.css"; /**/
@@ -219,7 +219,7 @@
    [!] good for Dark themes: buttons_on_navbar_glass_appearance.css
 */
 
-@import "./css/buttons/buttons_on_navbar_classic_appearance.css"; /**/
+/* @import "./css/buttons/buttons_on_navbar_classic_appearance.css"; /**/
 /* @import "./css/buttons/buttons_on_navbar_classic_appearance_v2.css"; /**/
 /* @import "./css/buttons/buttons_on_navbar_classic_appearance_dark.css"; /**/		
 /* @import "./css/buttons/buttons_on_navbar_aero_appearance.css"; /**/
@@ -313,7 +313,7 @@
    ---------------------------------------------------
 */
 
-@import "./css/buttons/bookmarks_menu_button_localized_label_on_bookmarks_toolbar.css"; /**/
+/* @import "./css/buttons/bookmarks_menu_button_localized_label_on_bookmarks_toolbar.css"; /**/
 /* @import "./css/buttons/bookmarks_menu_button_popup_showall_top_hidden.css"; /**/
 /* @import "./css/buttons/bookmarks_menu_button_popup_showall_bottom_hidden.css"; /**/
 /* @import "./css/buttons/bookmarks_menu_button_popup_sidebar_item_hidden.css"; /**/
@@ -338,7 +338,7 @@
    ----------------------
 */
 
-@import "./css/buttons/whatnew_button_always_hidden.css"; /**/
+/* @import "./css/buttons/whatnew_button_always_hidden.css"; /**/
 /* @import "./css/buttons/forward_button_hide_when_disabled.css"; /**/
 /* @import "./css/buttons/back_and_forward_separated_history_popups.css"; /**/
 /* @import "./css/buttons/back_and_forward_leftclick_history_popup_hidden.css"; /**/
@@ -402,8 +402,8 @@
    ----------------------------------
 */
 
-@import "./css/appbutton/appbutton_popup_icons.css"; /**/
-@import "./css/appbutton/appbutton_popup_icons_colorized.css"; /**/
+/* @import "./css/appbutton/appbutton_popup_icons.css"; /**/
+/* @import "./css/appbutton/appbutton_popup_icons_colorized.css"; /**/
 /* @import "./css/appbutton/appbutton_popup_sync_hidden.css"; /**/
 /* @import "./css/appbutton/appbutton_popup_logins_and_passwords_hidden.css"; /**/
 
@@ -482,7 +482,7 @@
 */
 
 /* label only */
-@import "./css/appbutton/appbutton_in_titlebar.css"; /**/
+/* @import "./css/appbutton/appbutton_in_titlebar.css"; /**/
 
 /* icon only */
 /* @import "./css/appbutton/appbutton_in_titlebar_icon_only.css"; /**/
@@ -512,7 +512,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/appbutton/appbutton_in_titlebar_autocolor.css"; /**/
+/* @import "./css/appbutton/appbutton_in_titlebar_autocolor.css"; /**/
 /* @import "./css/appbutton/appbutton_in_titlebar_autocolor57p.css"; /**/
 /* @import "./css/appbutton/appbutton_in_titlebar_transparent.css"; /**/
 /* @import "./css/appbutton/appbutton_in_titlebar_semi_transparent.css"; /**/
@@ -535,7 +535,7 @@
 */
 
 /* Classic tabs appearance known from Firefox 4-28 */
-@import "./css/tabs/classic_squared_tabs.css"; /**/
+/* @import "./css/tabs/classic_squared_tabs.css"; /**/
 
 /* Classic tabs appearance known from Firefox 4-28 for active tab only  */
 /* @import "./css/tabs/classic_squared_tabs_australized.css"; /**/
@@ -658,7 +658,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/tabs/missing_tab_favicon_restored_default.css"; /**/
+/* @import "./css/tabs/missing_tab_favicon_restored_default.css"; /**/
 /* @import "./css/tabs/missing_tab_favicon_restored_globe_v2.css"; /**/
 /* @import "./css/tabs/missing_tab_favicon_restored_sheet.css"; /**/
 /* @import "./css/tabs/missing_tab_favicon_restored_dotted.css"; /**/
@@ -687,7 +687,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/tabs/tab_close_always_visible.css"; /**/
+/* @import "./css/tabs/tab_close_always_visible.css"; /**/
 /* @import "./css/tabs/tab_close_on_active_tab_only.css"; /**/
 /* @import "./css/tabs/tab_close_show_on_hover_only.css"; /**/
 /* @import "./css/tabs/tab_close_hidden.css"; /**/
@@ -740,7 +740,7 @@
    ------------------
 */
 
-@import "./css/tabs/tab_icon_colors.css"; /**/
+/* @import "./css/tabs/tab_icon_colors.css"; /**/
 /* @import "./css/tabs/tab_title_centered.css"; /**/
 /* @import "./css/tabs/classic_squared_tabs_old_bordercolor_for_lwthemes.css"; /**/ /* has to be used along with 'classic_squared_tabs.css' */
 /* @import "./css/tabs/tabs_fully_squared.css"; /**/
@@ -768,8 +768,8 @@
    ==========
 */
 
-@import "./css/generalui/private_mode_indicator_hidden.css"; /**/
-@import "./css/generalui/bookmark_icons_colorized.css"; /**/
+/* @import "./css/generalui/private_mode_indicator_hidden.css"; /**/
+/* @import "./css/generalui/bookmark_icons_colorized.css"; /**/
 /* @import "./css/generalui/searchbookmarks_hidden.css"; /**/
 /* @import "./css/generalui/bookmarks_smaller_more_bookmarks_icon.css"; /**/
 /* @import "./css/generalui/send_to_device_menuitems_hidden.css"; /**/
@@ -837,7 +837,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/generalui/context_bfrsb_labels_without_icons.css"; /**/
+/* @import "./css/generalui/context_bfrsb_labels_without_icons.css"; /**/
 /* @import "./css/generalui/context_bfrsb_labels_with_icons.css"; /**/
 
 
@@ -911,7 +911,7 @@
    -----------------------------
 */
 
-@import "./css/generalui/searchbar_glassplus_indicator_hidden.css"; /**/
+/* @import "./css/generalui/searchbar_glassplus_indicator_hidden.css"; /**/
 /* @import "./css/generalui/searchbar_go_button_hidden.css"; /**/
 
 
@@ -995,11 +995,11 @@
    ----------------------
 */
 
-@import "./css/toolbars/toolbars_old_padding.css"; /**/
-@import "./css/toolbars/tabs_toolbar_adjustments.css"; /**/
+/* @import "./css/toolbars/toolbars_old_padding.css"; /**/
+/* @import "./css/toolbars/tabs_toolbar_adjustments.css"; /**/
 
 /* [!] Adjustments for the searchbar placed on menubar */
-@import "./css/toolbars/searchbar_on_menubar_fix.css"; /**/
+/* @import "./css/toolbars/searchbar_on_menubar_fix.css"; /**/
 
 
 /* ----------------------
@@ -1040,7 +1040,7 @@
    -----------------
 */
 
-@import "./css/toolbars/bookmarks_toolbar_old_height.css"; /**/
+/* @import "./css/toolbars/bookmarks_toolbar_old_height.css"; /**/
 /* @import "./css/toolbars/bookmarks_toolbar_fixed_width.css"; /**/
 /* @import "./css/toolbars/bookmarks_toolbar_autohide.css"; /**/
 /* @import "./css/toolbars/bookmarks_toolbar_bookmark_labels_hidden.css"; /**/
@@ -1090,7 +1090,7 @@
    -----------------
 */
 
-@import "./css/toolbars/general_toolbar_colors.css"; /**/
+/* @import "./css/toolbars/general_toolbar_colors.css"; /**/
 /* @import "./css/toolbars/tab_toolbar_colors_force_menubar_color.css"; /**/
 
 
@@ -1219,7 +1219,7 @@
 
 /* @import "./css/locationbar/megabar_disable_openviewonfocus.css"; /**/
 /* @import "./css/locationbar/urlbar_border_roundness.css"; /**/
-@import "./css/locationbar/urlbar_restore_visible_border.css"; /**/
+/* @import "./css/locationbar/urlbar_restore_visible_border.css"; /**/
 
 /* -------------------------------------
    Megabar expanding_breakout_disabled
@@ -1230,7 +1230,7 @@
    
 */
 
-@import "./css/locationbar/megabar_expanding_breakout_disabled.css"; /**/
+/* @import "./css/locationbar/megabar_expanding_breakout_disabled.css"; /**/
 /* @import "./css/locationbar/megabar_expanding_breakout_disabled_fx128-132.css"; /**/
 
 
@@ -1245,7 +1245,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/locationbar/urlbar_background_old_colors.css"; /**/
+/* @import "./css/locationbar/urlbar_background_old_colors.css"; /**/
 /* @import "./css/locationbar/urlbar_background_old_colors_lwtheme.css"; /**/
 /* @import "./css/locationbar/urlbar_background_color.css"; /**/
 /* @import "./css/locationbar/urlbar_background_color_dark.css"; /**/
@@ -1258,7 +1258,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/locationbar/ac_popup_megabar_title_and_url_50percent_width.css"; /**/
+/* @import "./css/locationbar/ac_popup_megabar_title_and_url_50percent_width.css"; /**/
 /* @import "./css/locationbar/ac_popup_megabar_url_and_title_50percent_width.css"; /**/
 /* @import "./css/locationbar/ac_popup_megabar_title_and_url_two_lines.css"; /**/
 /* @import "./css/locationbar/ac_popup_megabar_url_only.css"; /**/
@@ -1269,7 +1269,7 @@
    --------------------------------------------
 */
 
-@import "./css/locationbar/ac_popup_megabar_compact_results.css"; /**/
+/* @import "./css/locationbar/ac_popup_megabar_compact_results.css"; /**/
 /* @import "./css/locationbar/ac_popup_megabar_searchwith_and_visit_items_hidden.css"; /**/
 /* @import "./css/locationbar/ac_popup_megabar_suggest_label_hidden.css"; /**/
 /* @import "./css/locationbar/ac_popup_megabar_search_engines_hidden.css"; /**/
@@ -1284,4 +1284,4 @@
    [!] Create a "my_userChrome.css" file and add own/custom code to it.
 */
 
-@import "./my_userChrome.css"; /**/
+/* @import "./my_userChrome.css"; /**/
