@@ -1,0 +1,15 @@
+/*
+ * Debugging: Tools > Browser Tools > Browser Toolbox
+ *
+ * Bugzilla: nothing
+ *   https://bugzilla.mozilla.org/buglist.cgi?quicksearch=bookmark+spacing
+ *   https://bugzilla.mozilla.org/buglist.cgi?quicksearch=bookmark+padding
+ */
+
+/* https://stackoverflow.com/a/67808636 */
+/* Reduce spacing between bookmarks in the bookmarks toolbar */
+#personal-bookmarks .bookmark-item {
+  padding-top: 1px !important;
+  padding-bottom: 1px !important;
+}
+
